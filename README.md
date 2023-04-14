@@ -1,2 +1,2 @@
-# Sacode-php-II-day-02-2023
-Buat data bease
+# Sacode-php-II-day-07-2023
+Buat data base
